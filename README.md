@@ -23,7 +23,9 @@
 ## 🌐 Connect
 
 <p align="center">
-<a href="[https://linkedin.com/in/vaibhav-swaroop-020865367](https://www.linkedin.com/in/vybhav-swaroop-chintha-020865367/)"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/vybhav-swaroop-chintha-020865367/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 <a href="https://github.com/swaroop-chintha"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
