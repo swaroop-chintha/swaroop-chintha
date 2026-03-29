@@ -59,9 +59,6 @@
 
 ### 🔥 E-Commerce Data Engineering Platform
 
-<p align="center">
-  <img src="https://via.placeholder.com/900x350.png?text=Data+Engineering+Dashboard" />
-</p>
 
 **👉 End-to-End Scalable Data Pipeline System**
 
@@ -80,9 +77,6 @@
 
 ### 📚 EDU SUB – Assignment Platform
 
-<p align="center">
-  <img src="https://via.placeholder.com/900x350.png?text=Full+Stack+Platform" />
-</p>
 
 * Full-stack app using **React + SpringBoot + Hibernate**
 * Implemented **role-based system (student/instructor)**
@@ -97,14 +91,7 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=swaroop-chintha&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=swaroop-chintha&theme=tokyonight&hide_border=true" height="180"/>
-</p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaroop-chintha&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
 
 ---
 
