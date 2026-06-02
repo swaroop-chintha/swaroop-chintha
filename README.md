@@ -88,6 +88,8 @@
 **Tech:** React • SpringBoot • MySQL/PostgreSQL
 
 🔗 GitHub: https://github.com/swaroop-chintha/fsad
+🔗 Vercel: https://edusubfron.vercel.app/login
+🔗 Backend: https://fsad-1-wd2e.onrender.com
 
 ---
 
@@ -114,6 +116,7 @@
 * 🏅 Smart India Hackathon – Shortlisted
 * 📜 NPTEL AI/ML Certified
 * 🤖 GitHub Copilot Certified
+* ☁️ AWS Certified Cloud Practitioner
 
 ---
 
