@@ -74,6 +74,7 @@
 **Tech:** Python • Kafka • Airflow • dbt • DuckDB • Streamlit
 
 🔗 GitHub: https://github.com/swaroop-chintha/ecommerce-analysis
+🔗https://ecommerce-dashboard-vskm.onrender.com/
 
 ---
 
